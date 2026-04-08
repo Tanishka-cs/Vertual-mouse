@@ -36,7 +36,7 @@ Virtual-Mouse/
 
 ---
 
-## 📥 Clone the repository
+## 📥 Clone the repository & Installation
 
 ```bash
 git clone https://github.com/Tanishka-cs/Virtual-mouse.git
